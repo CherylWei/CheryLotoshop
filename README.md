@@ -1,4 +1,6 @@
 # 🏞️ CheryLotoshop - Remove Objects from Your Photos
+![ObjectRemoval](https://img.shields.io/badge/Object%20Removal-Image%20Processing-blue) ![Python](https://img.shields.io/badge/Python-3.x-brightgreen) ![PythonComprehensions](https://img.shields.io/badge/Python%20Comprehensions-Advanced%20Usage-yellow)
+
 
 ## 📜 Description
 cheryLotoshop is an innovative application designed to help users remove unwanted objects, such as bystanders, from your beautiful photos. By importing multiple images taken in the same location but with different people appearing in each, cheryLotoshop can generate a clean, unobstructed image without any intruding elements.
